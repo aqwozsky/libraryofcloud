@@ -6,4 +6,4 @@ It's the library of `cloud` named coding language. The imports in there. Also yo
 
 To pull packages.
 
-`rain -pull --package 'package_name'`
+`clob -pull --package 'package_name'`
